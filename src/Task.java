@@ -8,7 +8,6 @@ import java.util.Map;
 import java.util.Map.Entry;
 
 public class Task {
-
 	public static void main(String[] args) {
 		Map<LocalDate, String> tasks = new HashMap<>();
 		tasks.put(LocalDate.of(2021, 10, 21), "牛乳を買う");
